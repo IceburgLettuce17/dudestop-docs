@@ -1,0 +1,704 @@
+All cups in Dude, Stop!
+I suggest you obtain completionistbefore seeing this as this may contain spoilers. Or not. I'm text, not a cop.
+The completionist thingy may be true, although nobody checks the code of it
+Scroll a bit for the data
+Recommended font size is 110%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Trash Cup
+Bad Cup
+Obtain by failing the tutorial
+Pack: Tutorial Pack
+Not needed for Completionist
+Not an achievement
+Cup from a trash can
+
+Flashback Trophy
+Bad Cup
+Obtain by failing the tutorial 3 times
+Pack: Tutorial Pack
+Not needed for Completionist
+Has an achievement
+For completing first pack three times
+
+Broken cup
+Bad Cup
+Obtain by failing the jigsaw puzzle (switching the heads of the bears)
+Pack: Jigsaw Pack
+Not needed for Completionist
+Has an achievement
+Broken JigSaw cup
+Rusty rombus, broken
+
+Swedish cup
+Good Cup
+Obtain by completing the jigsaw puzzle
+Pack: Jigsaw Pack
+Not needed for Completionist
+Not an achievement
+Golden rombus that you combine from pieces
+
+Tiny cup
+Bad Cup
+Obtain by failing pack 3 80% bad
+Pack: Pack 3
+Not needed for Completionist
+Not an achievement
+Tiny metal cup
+
+A long one
+Good Cup
+Obtain by completing pack 3 80% good
+Pack: Pack 3
+Not needed for Completionist
+Not an achievement
+Long golden cup
+
+Domino
+Secret Cup
+Obtain by flinging the domino in pack 3 against the other pieces
+Pack: Pack 3
+Not needed for Completionist
+Has an achievement
+For smashing domino too strong, cup is domino piece
+
+Rarest postmark
+Good Cup
+Obtain by putting the postmark in the right spot perfectly
+Pack: Pack 3
+Not needed for Completionist
+Has an achievement
+For putting postmark perfectly, cup is postmark
+
+Long cup's little brother
+Good Cup
+Obtain by completing pack 3 100% good
+Pack: Pack 3
+Needed for Completionist
+Not an achievement
+Tiny long cup
+
+Wooden league
+Bad Cup
+Obtain by completing pack 3 100% bad
+Pack: Pack 3
+Needed for Completionist
+Not an achievement
+Wooden cup
+
+Low-wage hat
+Bad Cup
+Obtain by completing pack 4 80% bad
+Pack: Pack 4
+Not needed for Completionist
+Not an achievement
+Hat from a Bistro Restoran
+
+Mortib... something hat
+Good Cup
+Obtain by completing pack 4 100% good
+Pack: Pack 4
+Not needed for Completionist
+Not an achievement
+Hat from a University graduation
+
+A medal with raisins
+Bad Cup
+Obtain by completing pack 4 100% bad
+Pack: Pack 4
+Needed for Completionist
+Not an achievement
+Chocolate medal
+
+Gone in 20 seconds
+Good/Bad Cup
+Obtain by completing pack 4 in 20 seconds 3 times in a row
+Pack: Pack 4
+Not needed for Completionist
+Has an achievement
+Finish pack in 15 sec, Cup is golden #1 star
+
+Spoiler cup
+Bad Cup
+Obtain by completing pack 5 80% bad
+Pack: Pack 5
+Not needed for Completionist
+Not an achievement
+Cup with a spoiler text (can be added more in SC_N)
+
+Blocky cup
+Good Cup
+Obtain by completing pack 5 80% good
+Pack: Pack 5
+Not needed for Completionist
+Not an achievement
+Cup from pieces
+
+Eleven
+Secret Cup
+Obtain by cutting the pizza in eleven pieces in 4 cuts
+Pack: Pack 5
+Not needed for Completionist
+Not an achievement
+For cutting pizza in 11 pieces, cup is a pizza cutter
+
+Pet rock
+Bad Cup
+Obtain by completing pack 5 100% bad
+Pack: Pack 5
+Needed for Completionist
+Not an achievement
+Pet Rock.
+
+Golden cup
+Good Cup
+Obtain by completing pack 5 100% good
+Pack: Pack 5
+Needed for Completionist
+Not an achievement
+Boring golden one
+
+White crayons
+Good/Bad Cup
+Obtain by flipping crayons upside down
+Pack: Pack 5
+Not eeded for Completionist
+Has an achievement
+Place crayons upside down (no matter the order, you still obtain it, wrong or right)
+
+CRUST IS LAVA!
+Secret Cup
+Obtain by cutting only the crust on pizza
+Pack: Pack 5
+Not needed for Completionist
+Not an achievement
+For cutting crust off, Cup is Pineapple
+
+
+I wish you no ham
+Secret Cup
+Obtain by avoiding the meat on pizza
+Pack: Pack 5
+Not needed for Completionist
+Not an achievement
+Cut pizza and avoid all the meat pieces, cup is a pizza necklace
+
+Pizza mania
+Secret Cup
+Same as CRUST IS LAVA!
+Pack: Pack 5
+Not needed for Completionist
+Has an achievement
+
+
+Lemon pile
+Bad Cup
+Obtain by completing a story 100% bad
+Pack: A story
+Not needed for Completionist 
+Not an achievement
+Pile of lemons
+
+Cake cup
+Good Cup
+Obtain by completing a story 100% good
+Pack: A story
+Not needed for Completionist 
+Not an achievement
+Chocolate cake (required to build candles)
+
+Squeaky mouse
+Good Cup
+Obtain by completing all cat puzzles good
+Pack: A story
+Not needed for Completionist 
+Not an achievement
+All cat puzzle good, cup is a mouse toy
+
+
+Bone
+Good Cup
+Obtain by completing all dog puzzles good
+Pack: A story
+Not needed for Completionist 
+Not an achievement
+All dog puzzles good, cup is a bone
+
+Cone of shame
+Bad Cup
+Obtain by completing all dog puzzles bad
+Pack: A story
+Not needed for Completionist 
+Not an achievement
+All dog puzzles bad, looks like a medical cone on a dog
+
+Water spray
+Bad Cup
+Obtain by completing all cat puzzles bad
+Pack: A story
+Not needed for Completionist 
+Not an achievement
+All cat puzzle bad, cup is a water spraying bottle
+
+Dripping cat
+Secret Cup
+Obtain by putting the cat in a sink with turned off water, then turning water on
+Pack: A story
+Not needed for Completionist 
+Has an achievement
+Wet cat on a book (no matter the amount of water)
+
+D.U.C.K.
+Bad Cup
+Obtain by taking 5 pictures in the cat puzzle
+Pack: Pack 7
+Not needed for Completionist 
+Not an achievement
+Before you click the red button, it appears as a golden cup with blue stripes
+
+Candy cup
+Good Cup
+Obtain by completing pack 7 80% good
+Pack: Pack 7
+Not needed for Completionist 
+Not an achievement
+Cup with candy (if you use debug mode to get the cup without getting candy, it appears empty)
+
+I SCREAM
+Good Cup
+Obtain by completing pack 7 100% good
+Pack: Pack 7
+Needed for Completionist 
+Not an achievement
+Icecream
+
+All you deserve
+Bad Cup
+Obtain by completing pack 7 100% bad
+Pack: Pack 7
+Needed for Completionist 
+Not an achievement
+Some stuff from pockets
+
+Cat picture
+Secret Cup
+Obtain by taking 120 photos in the cat puzzle
+Pack: Pack 7
+Not needed for Completionist 
+Not an achievement
+Hundreat photos of cat (impossible to obtain on first try because D.U.C.K. (unless you get some right))
+
+Old stinky shoe
+Bad Cup
+Obtain by completing pack 8 12/12 bad
+Pack: Pack 8
+Not needed for Completionist 
+Not an achievement
+Old shoe (if you use debug mode, appears as golden shoe)
+
+TURBO SNAIL
+Good cup
+Obtain by completing pack 8 80% good
+Pack: Pack 8
+Not needed for Completionist 
+Not an achievement
+You can't win the race
+
+Flash
+Good Cup
+Obtain by completing pack 8 12/12 good
+Pack: Pack 8
+Needed for Completionist 
+Not an achievement
+Just a lightning (referencing speed of course)
+
+Fast and wrong/Avocado/Banana/Phone/Ice cream
+Bad Cup
+Obtain by completing pack 8 100% bad
+Pack: Pack 8
+Needed for Completionist 
+Not an achievement
+this is just for the achievement and the items that break fast (SLOWRAPID_CUP)
+
+Stairs
+Secret Cup
+Obtain by clicking all floors in the elevator
+Pack: Pack 8
+Not needed for Completionist 
+Has an achievement
+Broken elevator, looks like stairs
+
+The String
+Secret Cup
+Obtain by pulling out the string off the jacket
+Pack: Pack 8
+Not needed for Completionist 
+Has an achievement
+String from a jacket hoody
+
+I've seen it all
+Secret Cup
+Obtain by seeing all puzzles
+Pack: Pack 8
+Not needed for Completionist 
+Has an achievement
+Looks like  and eye. (the quickest way to get this cup is using debug mode to go lightspeed (makes sense for pack 8) across all puzzles)
+
+The Claw
+Bad Cup
+Obtain by completing pack 9 80?% bad
+Pack: Pack 9
+Not needed for Completionist 
+Not an achievement
+The cup in the claw machine is unobtainable
+
+Robocup
+Good Cup
+Obtain by completing pack 9 80% good
+Pack: Pack 9
+Not needed for Completionist 
+Not an achievement
+Blocky cup 2: Augmented boogaloo
+
+Forever dry
+Bad Cup
+Obtain by completing pack 9 100% bad
+Pack: Pack 9
+Needed for Completionist 
+Not an achievement
+Drier than a new towel.
+
+Pile of cookies
+Good Cup
+Obtain by completing pack 9 100% good
+Pack: Pack 9
+Needed for Completionist 
+Not an achievement
+Just a pile of cookies.
+
+Manual washer
+Secret Cup
+Obtain by washing 1 white clothing piece
+Pack: Pack 9
+Not needed for Completionist 
+Has an achievement
+Wash one white piece
+
+Perfect 31
+Good cup
+Obtain by doing the hanoi tower puzzle in 31 moves
+Pack: Pack 9
+Not needed for Completionist 
+Has an achievement
+Easeir than other hanoi cups (in 31 moves)
+
+A cheater?!
+Good cup
+Obtain by doing the hanoi tower puzzle in less than 31 moves
+Pack: Pack 9
+No, it's not needed for Completionist 
+Has an achievement
+Actually not needed for completionist.
+
+Order matters
+Good cup
+Obtain by doing the hanoi tower puzzle in order
+Pack: Pack 9
+Not needed for Completionist 
+Has an achievement
+Big one was never in the small one
+
+Potato
+Bad cup
+Obtain by completing pack 10 80% bad
+Pack: Pack 10
+Not needed for Completionist 
+Not an achievement
+You can choose between 4 other cups: One of them is a basic trophy, another has  a little oval thingy, one has duck's icon, and one is thin a bit (but you get the potato always)
+
+Box'o'junk
+Good cup
+Obtain by completing pack 10 80% good
+Pack: Pack 10
+Not needed for Completionist 
+Not an achievement
+Theres also many unobtainable items you need to combine (i.e. unused green pen, icecream)
+
+Pointless cup
+Bad cup
+Obtain by completing pack 10 100% bad
+Pack: Pack 10
+Needed for Completionist 
+Not an achievement
+Pointless dirty old bronze cup
+
+The Golden Pen
+Good cup
+Obtain by completing pack 10 100% good
+Pack: Pack 10
+Needed for Completionist 
+Not an achievement
+Just a gold pen.
+
+Child pics
+Good cup
+Obtain by arranging the pics in a specific order
+Pack: Pack 10
+Not needed for Completionist 
+Not an achievement
+Arrange pictures in order
+
+Monster cup
+Bad cup
+Obtain by completing pack 11 80% bad
+Pack: Pack 11
+Not needed for Completionist 
+Not an achievement
+Another blocky cup ripoff.
+
+Holy grail
+Good cup
+Obtain by completing pack 11 80% good
+Pack: Pack 11
+Not needed for Completionist 
+Not an achievement
+Just a random cup with oval thingy
+
+Rusty cup
+Bad cup
+Obtain by completing pack 11 100% bad
+Pack: Pack 11
+Needed for Completionist 
+Not an achievement
+Rusty metal cup
+
+Yet Another Golder Cup
+Good cup
+Obtain by completing pack 11 100% good
+Pack: Pack 11
+Needed for Completionist 
+Not an achievement
+Yet another useless information
+
+Dead Bread
+Secret cup
+Obtain by half-filling the bread with chocolate, then filling the knife with the last chocolate, then hrowing away the jar, and then the knife.
+Pack: Pack 11
+Not needed for Completionist 
+Has an achievement
+Chocolate cream
+
+
+Appreciation reward
+Bad cup
+Obtain by completing pack 12 100% bad
+Pack: Pack 12
+Kinda needed for Completionist 
+Not an achievement
+Almost same thing as final cup, golden #17 text
+
+Final cup
+Achievement
+Pack: Pack 12
+Only an achievement
+Can be same as cup #69 (nice)
+
+Treasure chest
+Good cup
+Obtain by completing pack 12 80% good
+Pack: Pack 12
+Not needed for Completionist 
+Not an achievement
+this is proof that every good game has to have a fishing minigame -Pokemastermat
+
+Angry cup
+Bad cup
+Obtain by completing pack 12 100% bad
+Pack: Pack 12
+Needed for Completionist 
+Not an achievement
+Angry cactoos
+
+The Last Gold
+Good cup
+Obtain by completing pack 12 100% good
+Pack: Pack 12
+Needed for Completionist 
+Not an achievement
+just a boring golden one
+
+Big numbers
+Secret cup
+Type 80085 on the password screen
+Pack: Pack 12
+Disables Completionist (bug)
+Not an achievement
+Surprised 8008135 doesn't work.
+
+Australian Christmas
+Secret cup
+Obtain by flipping a christmas tree upside down
+Pack: Pack 12
+Not needed for Completionist 
+Not an achievement
+Mate.
+
+Final cup
+Achievement
+Same as before
+Pack: Pack 12
+Only achievement
+Text-only
+
+Secret door
+Achievement
+Alt+F4 when narrator asks you to close the game, then return
+Pack: Pack 12
+Only achievement
+Exit the game 
+
+Completionist
+Special cup
+Obtain all cups that are needed for completionist + idk, never looked into the award codes (Award*.cs)
+Pack: The End
+Not an achievement
+
+Unused/Unobtainable cups
+Placeholder_cup
+Unused Cup
+Unknown
+Unknown
+Design is unknown
+
+D.U.C.K (Pre red button) a.k.a Unfortunate cup
+Unobtainable Bad Cup
+Obtain by completing pack 7 100% bad
+Pack: Pack 7
+Not needed for Completionist 
+Not an achievement
+Debug mode (Num1 keybind) makes a blank sprite appear instead of the d.u.c.k if d.u.c.k hasn't been destroyed (as a cup)
+
+Sign of Gratitude
+Secret Cup (demo)
+Obtain by opening the greenlight page (say yes to the steam question first)
+Pack: Level pack 2 (pack 1 in fullgame)
+Not needed for Completionist 
+Not an achievement
+Uses long cup sprite, maybe was original design? idk, only patomkin/halfbeard has access to the dude stop debug/private stuff (UnityExplorer is limited, and decompiling doesn't help either i think)
+
+??? (FinalCup)
+Only visual cup
+Pack: Pack 12?
+Companion cube condensed into a trophy. First interactable cup since MonsterCup (you use this to break the glass)
+
+golden tp roll (FinalCup)
+Only visual cup
+Pack: Pack 12?
+Someone thought this was an actual cup on steam guides (has rainbow trail)
+ 
+Diamond (Tiny cup)
+Only visual cup
+Pack: Pack 3?
+Removing the cups on the switching thingy actually reveals that the tiny cup (sprite, Award, AwardBadGoodCondition, AwardPack3?) is loaded right after the cups switch (maybe true, i think loads after the cups finish, a few decoseconds after)
+
+Metal cup 
+Only visual cup
+Pack: Pack 11
+You combine this to get the monster cup
+
+
+#1 tester mug (FinalCup)
+Only visual cup
+Pack: Pack 12
+You already know why you can't get this
+
+??? (possible early flashback cup/Tutorial good cup?)
+PuzzleAtlas cup
+A orange cup with green m&ms.
+
+
+??? (dunno where used)
+PuzzleAtlas cup
+A white mug without anything.
+
+Wooden cup?
+PuzzleAtlas cup
+Pack: Pack 3?
+A different design for Wooden league.
+
+Golf club
+Only visual cup
+Pack: Pack 3?
+Item #1 in long cup puzzle
+
+
+Baseball bat
+Only visual cup
+Pack: Pack 3
+Item #2 in long cup puzzle
+
+
+Snake cup
+Unused Cup
+Pack: Pack 1?
+Has a venom particle thingy
+
+Long cup (early)
+Unused Cup
+Pack: Pack 1
+A different version of the long cup, being a beige cup with springs.
+
+
+Diploma
+Unused? Cup
+Pack: Pack 4
+This could've been used if you completed pack 4 good first. Possibly removed due to that exact same reason/100% completion.

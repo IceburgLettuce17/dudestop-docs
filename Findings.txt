@@ -1,0 +1,60 @@
+Dude, Stop findings in the code i guess
+Don't have my project on me rn so most of this is from datamining
+award stuff:
+Award called NYI in AwardName (not yet implemented)
+Flashback trophy? is TWICE (like playing pack1 twice
+Headache 1: Swedish and broken cup are named JIGSAW_COMPLETE_BAD and, get ready, Pack2_Good (you had one job and you flubbed it)
+Long cup's little brother is LongTiny_Cup
+Headache 2: Pack11 cups were coded before Pack 4
+Gone in 20 seconds is EXAM_FAST
+Pizza cups are in thhis order:
+PIZZA_CUTTER (no this is not where the pizza cutter bonus name came from)
+PIZZA_PINEAPPLE 
+PIZZA_NECKLACE
+PIZZA_FIRST (maybe the ham)
+Headache 3: Pack 6 cups are switched between Pack6 and StoryPack
+The cone of shame is reffered to as dogThing
+Order matters is HANOI_TOWER
+Fridge is prob child pics
+Headache 4: Pack12 has Pack13 references
+Glitches:
+1: Scriptskipping
+Scriptskipping is super simple to do, doesn't softlock, and is used to skip parts of dialogue
+Steps:
+Be in a puzzle
+When solving the puzzle, exit it.
+Spam leftclick and if the game doesn't get stuck and you get sent to the next puzzle, you did it correctly
+It may not seem like much but essentially what will happen is for the next puzzles you solve (depending on the situation), the game will change some variable and skip some scripts, thus sending you to the next puzzle with a left click (game thinks you completed it)
+
+Skippables are:
+🞄 Cup endings
+🞄 Story Pack/Pack10? puzzles
+🞄 99.9%
+🞄 Hundred Photos
+🞄 Cracks
+🞄 Puzzles in Pack 8 if completed before
+🞄 Wrong Bin (D.U.C.K Puzzle)
+🞄 Laundry
+🞄 Food photos
+🞄 Parking Lesson
+🞄 Password
+🞄 Repeatedly done puzzles
+Sub glitches:
+Dogskip
+in pack 6, there is a time consuming puzzle where you must wait with a dog outside for 55 seconds.
+every puzzle in this pack finishes automatically and once you wait for the narrator,
+you could scriptskip but that doesn't count as you skip a puzzle along the way
+the reason above 2 lines is the reason why the puzzleskip happens
+if you complete the puzzle normally, you will have to scriptskip the Meowdoor puzzle
+hence, you won't get enough checkmarks to unlock the cake, and therefore, pack 7
+
+It is still possible to skip this puzzle to quickly complete the pack while earning a cake and pack 7
+Steps:
+Scriptskip any level
+Once the Empty Glass puzzle apears, solve it normally but DO NOT LEFT CLICK.
+When the narrators dialog finishes, LEFT CLICK.
+Go to the main menu
+Start Pack 6 and go through the 3 puzzles before Shoehungry.
+In Shoehungry (4th puzzle) solve but DO NOT LEFT CLICK until you are at the Dogwalk puzzle.
+When you get to Dogwalk, leftclick to skip it
+You are now free to continue to pack 7!
