@@ -1,6 +1,6 @@
 All cups in Dude, Stop!
-I suggest you obtain completionistbefore seeing this as this may contain spoilers. Or not. I'm text, not a cop.
-The completionist thingy may be true, although nobody checks the code of it
+I suggest you obtain completionist before seeing this as this may contain spoilers. Or not. I'm text, not a cop.
+The completionist thingy is sourced from AwardStats.txt, and the actual thing is in Global.cs
 Scroll a bit for the data
 Recommended font size is 110%
 
@@ -57,13 +57,13 @@ Recommended font size is 110%
 Trash Cup
 Bad Cup
 Obtain by failing the tutorial
-Pack: Tutorial Pack
+Pack: Tutorial
 Not needed for Completionist
 Not an achievement
 Cup from a trash can
 
 Flashback Trophy
-Bad Cup
+Secret Cup
 Obtain by failing the tutorial 3 times
 Pack: Tutorial Pack
 Not needed for Completionist
@@ -582,7 +582,7 @@ Type 80085 on the password screen
 Pack: Pack 12
 Disables Completionist (bug)
 Not an achievement
-Surprised 8008135 doesn't work.
+"I am a mature person" (i didnt actually laugh at this joke btw)
 
 Australian Christmas
 Secret cup
@@ -633,14 +633,14 @@ Obtain by opening the greenlight page (say yes to the steam question first)
 Pack: Level pack 2 (pack 1 in fullgame)
 Not needed for Completionist 
 Not an achievement
-Uses long cup sprite, maybe was original design? idk, only patomkin/halfbeard has access to the dude stop debug/private stuff (UnityExplorer is limited, and decompiling doesn't help either i think)
+No Description
 
-??? (FinalCup)
+Companion Cup (fn) (FinalCup)
 Only visual cup
 Pack: Pack 12?
 Companion cube condensed into a trophy. First interactable cup since MonsterCup (you use this to break the glass)
 
-golden tp roll (FinalCup)
+Golden TP Roll (fn) (FinalCup)
 Only visual cup
 Pack: Pack 12?
 Someone thought this was an actual cup on steam guides (has rainbow trail)
@@ -686,19 +686,21 @@ Only visual cup
 Pack: Pack 3
 Item #2 in long cup puzzle
 
+THE FOLLOWING IS COLLECTOR'S EDITION INFO AND ISN'T IN THE ACTUAL GAME
 
 Snake cup
-Unused Cup
-Pack: Pack 1?
-Has a venom particle thingy
+Bad Cup
+Pack: Pack 1
+Same as TrashCup
 
 Long cup (early)
-Unused Cup
+Bad Cup
 Pack: Pack 1
+Same as TrashCup
 A different version of the long cup, being a beige cup with springs.
 
 
 Diploma
-Unused? Cup
+Good Cup
 Pack: Pack 4
-This could've been used if you completed pack 4 good first. Possibly removed due to that exact same reason/100% completion.
+This is used if you 100% complete good pack 4
