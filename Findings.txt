@@ -1,9 +1,9 @@
 Dude, Stop findings in the code i guess
-Don't have my project on me rn so most of this is from datamining
+
 award stuff:
-Award called NYI in AwardName (not yet implemented)
-Flashback trophy? is TWICE (like playing pack1 twice
-Headache 1: Swedish and broken cup are named JIGSAW_COMPLETE_BAD and, get ready, Pack2_Good (you had one job and you flubbed it)
+Award called NYI in AwardName (long homemade cup)
+Flashback trophy? is TWICE (like playing pack1 twice)
+Headache 1: Swedish and broken cup are named JIGSAW_COMPLETE_BAD and, get ready, Pack2_Good (you had one job patomkin, ONE. JOB.)
 Long cup's little brother is LongTiny_Cup
 Headache 2: Pack11 cups were coded before Pack 4
 Gone in 20 seconds is EXAM_FAST
@@ -39,6 +39,7 @@ Skippables are:
 🞄 Parking Lesson
 🞄 Password
 🞄 Repeatedly done puzzles
+
 Sub glitches:
 Dogskip
 in pack 6, there is a time consuming puzzle where you must wait with a dog outside for 55 seconds.
