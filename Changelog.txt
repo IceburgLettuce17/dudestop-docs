@@ -3,3 +3,4 @@ beta2: Added Puzzles.txt
 beta3: Added CREDITS.txt
 V0.5: Added Findings.txt
 V1.0: Added .cs files. (main release in GitHub)
+V1.1: Added decomp infos
